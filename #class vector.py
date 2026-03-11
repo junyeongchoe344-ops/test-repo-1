@@ -1,6 +1,6 @@
 #class vector
 
-Lee Sang Hyun, Hankuk University of Foreign Studies
+Lee Sang Hyun, Hankuk University of Foreign Studies, Divison of Computer Engineering
 
 class Vector:
   def __init__(self,*args):
@@ -25,4 +25,5 @@ v[-1] = 9
 for c in v:
   print(c, end=" ")
 print()
+
 
