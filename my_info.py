@@ -8,3 +8,4 @@ name = "이상현"
 studentid = 202302511
 major = "컴퓨터공학부"
 Touched by junyeong04
+grade = "A"
